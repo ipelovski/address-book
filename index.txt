@@ -1,0 +1,3 @@
+Address-book is a try with making a dynamic module builder.
+The developer would be able to modify an address-book at runtime and see the changes immediately.
+The address-book could be exported into a regular module and used in other projects.
